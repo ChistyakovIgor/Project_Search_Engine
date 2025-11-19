@@ -1,0 +1,21 @@
+# ninja log v5
+1934	2000	1755442913051685725	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	205f500b9923ef35
+1737	1803	1755442912854755724	/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	fdec27429ead8557
+0	102	1755442911153992820	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	f35fe3d1d059c8a4
+1803	1868	1755442912920385446	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	9598d8e99a4a221b
+2000	2065	1755442913117238197	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	7342f61704a0ca5d
+2065	2130	1755442913182151669	/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	81170847183db359
+0	102	1755442911153992820	/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	f35fe3d1d059c8a4
+103	1737	1755442912789467460	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	ae91965876ad2ca8
+2130	2221	1755442913273406997	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	9acb8df8ac52be7f
+2130	2221	1755442913273406997	/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	9acb8df8ac52be7f
+103	1737	1755442912789467460	/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	ae91965876ad2ca8
+1803	1868	1755442912920385446	/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	9598d8e99a4a221b
+1868	1934	1755442912985893627	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	b7504c71fb21b4ef
+1737	1803	1755442912854755724	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	fdec27429ead8557
+1868	1934	1755442912985893627	/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	b7504c71fb21b4ef
+1934	2000	1755442913051685725	/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	205f500b9923ef35
+2000	2065	1755442913117238197	/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	7342f61704a0ca5d
+2065	2130	1755442913182151669	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	81170847183db359
+2130	2221	1755442913273406997	CMakeFiles/googletest-populate-complete	9acb8df8ac52be7f
+2130	2221	1755442913273406997	/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	9acb8df8ac52be7f
