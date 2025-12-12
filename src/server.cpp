@@ -9,7 +9,8 @@
  * @param queries_input поисковые запросы взятые из файла requests.json
  * @return возвращает отсортированный список релевантных ответов для заданных запросов
  */
-std::vector<std::vector<RelativeIndex>> SearchServer::search(const std::vector<std::string>& queries, size_t responses_limit) {
+std::vector<std::vector<RelativeIndex>> SearchServer::search(
+        const std::vector<std::string>& queries, size_t responses_limit) {
 
     std::vector<std::vector<RelativeIndex>> results;
 
@@ -42,10 +43,10 @@ std::vector<std::vector<RelativeIndex>> SearchServer::search(const std::vector<s
             if (rels.size() > responses_limit) {
                 rels.resize(responses_limit);
             }
-            results.push_back(rels);
         }
-        return results;
+        results.push_back(rels);
     }
+    return results;
 };
 
 std::map<std::string, size_t> get_indexes_for_request_words(std::vector<std::string>& vec);

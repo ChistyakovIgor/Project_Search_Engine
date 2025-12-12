@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src"
-  "/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build"
-  "/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix"
-  "/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp"
-  "/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp"
-  "/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src"
-  "/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp"
+  "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src"
+  "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build"
+  "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix"
+  "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp"
+  "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp"
+  "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src"
+  "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/${subDir}")
+    file(MAKE_DIRECTORY "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp${cfgdir}") # cfgdir has leading slash
 endif()

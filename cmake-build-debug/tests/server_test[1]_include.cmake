@@ -1,5 +1,5 @@
-if(EXISTS "/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/tests/server_test[1]_tests.cmake")
-  include("/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/tests/server_test[1]_tests.cmake")
+if(EXISTS "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/tests/server_test[1]_tests.cmake")
+  include("/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/tests/server_test[1]_tests.cmake")
 else()
   add_test(server_test_NOT_BUILT server_test_NOT_BUILT)
 endif()

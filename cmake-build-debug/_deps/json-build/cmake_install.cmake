@@ -1,4 +1,4 @@
-# Install script for directory: /Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/json-src
+# Install script for directory: /Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

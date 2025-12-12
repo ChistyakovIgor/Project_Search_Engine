@@ -3,7 +3,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "lib/libgmockd.a"
+			"path" : "lib/libgmock_maind.a"
 		}
 	],
 	"backtrace" : 3,
@@ -33,7 +33,7 @@
 			{
 				"command" : 2,
 				"file" : 1,
-				"line" : 101,
+				"line" : 104,
 				"parent" : 0
 			},
 			{
@@ -63,7 +63,7 @@
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 102,
+				"line" : 105,
 				"parent" : 0
 			},
 			{
@@ -99,21 +99,23 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googlemock/include"
-				},
-				{
-					"backtrace" : 7,
-					"path" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googlemock"
+					"isSystem" : true,
+					"path" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googlemock/include"
 				},
 				{
 					"backtrace" : 7,
 					"isSystem" : true,
-					"path" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googletest/include"
+					"path" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googlemock"
 				},
 				{
 					"backtrace" : 7,
 					"isSystem" : true,
-					"path" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googletest"
+					"path" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googletest/include"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googletest"
 				}
 			],
 			"language" : "CXX",
@@ -135,10 +137,14 @@
 	[
 		{
 			"backtrace" : 6,
+			"id" : "gmock::@0f7bb11d64f3678238c7"
+		},
+		{
+			"backtrace" : 6,
 			"id" : "gtest::@1ea2dfc0605fe3ab2a3f"
 		}
 	],
-	"id" : "gmock::@0f7bb11d64f3678238c7",
+	"id" : "gmock_main::@0f7bb11d64f3678238c7",
 	"install" : 
 	{
 		"destinations" : 
@@ -153,8 +159,8 @@
 			"path" : "/usr/local"
 		}
 	},
-	"name" : "gmock",
-	"nameOnDisk" : "libgmockd.a",
+	"name" : "gmock_main",
+	"nameOnDisk" : "libgmock_maind.a",
 	"paths" : 
 	{
 		"build" : "_deps/googletest-build/googlemock",
@@ -175,7 +181,7 @@
 		{
 			"backtrace" : 3,
 			"compileGroupIndex" : 0,
-			"path" : "cmake-build-debug/_deps/googletest-src/googlemock/src/gmock-all.cc",
+			"path" : "cmake-build-debug/_deps/googletest-src/googlemock/src/gmock_main.cc",
 			"sourceGroupIndex" : 0
 		}
 	],

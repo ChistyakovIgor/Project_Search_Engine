@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -563,7 +563,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1451,7 +1451,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps"
 		},
 		{
 			"name" : "FETCHCONTENT_FULLY_DISCONNECTED",
@@ -1743,7 +1743,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build/googletest/generated"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build/googletest/generated"
 		},
 		{
 			"name" : "gmock_BINARY_DIR",
@@ -1755,7 +1755,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build/googlemock"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build/googlemock"
 		},
 		{
 			"name" : "gmock_IS_TOP_LEVEL",
@@ -1791,7 +1791,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googlemock"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googlemock"
 		},
 		{
 			"name" : "gmock_build_tests",
@@ -1831,7 +1831,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build"
 		},
 		{
 			"name" : "googletest-distribution_IS_TOP_LEVEL",
@@ -1855,7 +1855,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src"
 		},
 		{
 			"name" : "gtest_BINARY_DIR",
@@ -1867,7 +1867,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build/googletest"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build/googletest"
 		},
 		{
 			"name" : "gtest_IS_TOP_LEVEL",
@@ -1891,7 +1891,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googletest"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googletest"
 		},
 		{
 			"name" : "gtest_build_samples",
@@ -1995,7 +1995,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-build"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-build"
 		},
 		{
 			"name" : "nlohmann_json_IS_TOP_LEVEL",
@@ -2019,7 +2019,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-src"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-src"
 		},
 		{
 			"name" : "search_server_BINARY_DIR",
@@ -2031,7 +2031,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug"
 		},
 		{
 			"name" : "search_server_IS_TOP_LEVEL",
@@ -2055,7 +2055,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject"
 		},
 		{
 			"name" : "server_test_BINARY_DIR",
@@ -2067,7 +2067,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/tests"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/tests"
 		},
 		{
 			"name" : "server_test_IS_TOP_LEVEL",
@@ -2091,7 +2091,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/tests"
+			"value" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/tests"
 		},
 		{
 			"name" : "targets_export_name",

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/tests
+# Install script for directory: /Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/tests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/igorchistyakov/Desktop/Обучение С++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build/cmake_install.cmake")
+  include("/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-build/cmake_install.cmake")
 
 endif()
 

@@ -178,7 +178,7 @@
 			"path" : "config/config.json"
 		},
 		{
-			"path" : "config/request.json"
+			"path" : "config/requests.json"
 		},
 		{
 			"isGenerated" : true,
@@ -384,8 +384,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug",
-		"source" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject"
+		"build" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug",
+		"source" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject"
 	},
 	"version" : 
 	{

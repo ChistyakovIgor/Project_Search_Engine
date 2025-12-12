@@ -217,42 +217,42 @@
 				{
 					"directoryIndex" : 5,
 					"id" : "gmock::@0f7bb11d64f3678238c7",
-					"jsonFile" : "target-gmock-Debug-99b5c368a32d5af34099.json",
+					"jsonFile" : "target-gmock-Debug-ab0e1a711e626389250f.json",
 					"name" : "gmock",
 					"projectIndex" : 4
 				},
 				{
 					"directoryIndex" : 5,
 					"id" : "gmock_main::@0f7bb11d64f3678238c7",
-					"jsonFile" : "target-gmock_main-Debug-b1cc53cf6c2f13fb8163.json",
+					"jsonFile" : "target-gmock_main-Debug-578d6495474113eb0e87.json",
 					"name" : "gmock_main",
 					"projectIndex" : 4
 				},
 				{
 					"directoryIndex" : 6,
 					"id" : "gtest::@1ea2dfc0605fe3ab2a3f",
-					"jsonFile" : "target-gtest-Debug-c7df47d9d5aa3bcd45c0.json",
+					"jsonFile" : "target-gtest-Debug-f829bea77af8e95ba971.json",
 					"name" : "gtest",
 					"projectIndex" : 5
 				},
 				{
 					"directoryIndex" : 6,
 					"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f",
-					"jsonFile" : "target-gtest_main-Debug-51644518515b13abb71e.json",
+					"jsonFile" : "target-gtest_main-Debug-e82a7652ef589d500053.json",
 					"name" : "gtest_main",
 					"projectIndex" : 5
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "search_server::@145eef247bfb46b6828c",
-					"jsonFile" : "target-search_server-Debug-7023c02d26b383a74126.json",
+					"jsonFile" : "target-search_server-Debug-e07f5906e9f4883bfdca.json",
 					"name" : "search_server",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "server_test::@a44f0ac069e85531cdee",
-					"jsonFile" : "target-server_test-Debug-5200636dcde9352b7922.json",
+					"jsonFile" : "target-server_test-Debug-7980f8e95e6370e0be5a.json",
 					"name" : "server_test",
 					"projectIndex" : 2
 				}
@@ -262,8 +262,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug",
-		"source" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject"
+		"build" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug",
+		"source" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject"
 	},
 	"version" : 
 	{

@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate"
+			"file" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate"
 		},
 		{
-			"file" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate.rule"
+			"file" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate.rule"
 		},
 		{
-			"file" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule"
+			"file" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule"
 		},
 		{
-			"file" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule"
+			"file" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule"
 		},
 		{
-			"file" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule"
+			"file" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule"
 		},
 		{
-			"file" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule"
+			"file" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule"
 		},
 		{
-			"file" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule"
+			"file" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule"
 		},
 		{
-			"file" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule"
+			"file" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule"
 		},
 		{
-			"file" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule"
+			"file" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule"
 		},
 		{
-			"file" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule"
+			"file" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule"
 		},
 		{
-			"file" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule"
+			"file" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule"
 		}
 	],
 	"target" : 

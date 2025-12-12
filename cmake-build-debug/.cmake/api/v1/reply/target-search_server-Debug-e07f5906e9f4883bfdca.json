@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "tests/server_test"
+			"path" : "src/search_server"
 		}
 	],
 	"backtrace" : 1,
@@ -16,8 +16,7 @@
 		],
 		"files" : 
 		[
-			"tests/CMakeLists.txt",
-			"cmake-build-debug/_deps/googletest-src/googletest/CMakeLists.txt"
+			"src/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -27,28 +26,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 16,
+				"line" : 15,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 22,
+				"line" : 19,
 				"parent" : 0
-			},
-			{
-				"file" : 1
-			},
-			{
-				"command" : 1,
-				"file" : 1,
-				"line" : 143,
-				"parent" : 3
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 20,
+				"line" : 17,
 				"parent" : 0
 			}
 		]
@@ -65,21 +55,26 @@
 					"fragment" : "-std=gnu++17"
 				}
 			],
-			"includes" : 
+			"defines" : 
 			[
 				{
-					"backtrace" : 5,
-					"path" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/include"
-				},
-				{
-					"backtrace" : 5,
-					"isSystem" : true,
-					"path" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googletest/include"
+					"backtrace" : 2,
+					"define" : "JSON_DIAGNOSTICS=0"
 				},
 				{
 					"backtrace" : 2,
-					"isSystem" : true,
-					"path" : "/Users/igorchistyakov/Desktop/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0421++/final_project/EmptyProject/cmake-build-debug/_deps/googletest-src/googletest"
+					"define" : "JSON_USE_IMPLICIT_CONVERSIONS=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/igorchistyakov/Desktop/C++/final_project/EmptyProject/cmake-build-debug/_deps/json-src/single_include"
 				}
 			],
 			"language" : "CXX",
@@ -100,18 +95,7 @@
 			]
 		}
 	],
-	"dependencies" : 
-	[
-		{
-			"backtrace" : 2,
-			"id" : "gtest::@1ea2dfc0605fe3ab2a3f"
-		},
-		{
-			"backtrace" : 2,
-			"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f"
-		}
-	],
-	"id" : "server_test::@a44f0ac069e85531cdee",
+	"id" : "search_server::@145eef247bfb46b6828c",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -123,26 +107,16 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "lib/libgtest_maind.a",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 4,
-				"fragment" : "lib/libgtestd.a",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
-	"name" : "server_test",
-	"nameOnDisk" : "server_test",
+	"name" : "search_server",
+	"nameOnDisk" : "search_server",
 	"paths" : 
 	{
-		"build" : "tests",
-		"source" : "tests"
+		"build" : "src",
+		"source" : "src"
 	},
 	"sourceGroups" : 
 	[
@@ -162,13 +136,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "tests/index_tests.cpp",
+			"path" : "src/main.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "tests/server_tests.cpp",
+			"path" : "src/converter.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{

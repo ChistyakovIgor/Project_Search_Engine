@@ -7,8 +7,8 @@
 #include "server.h"
 
 /**
-*  Класс для работы с JSON-файлами
-*/
+ *  Класс для работы с JSON-файлами
+ */
 class ConverterJSON {
     std::string _config_path;
     std::string _request_path;
@@ -23,8 +23,21 @@ private:
     std::string requestsPath;
     std::string answersPath;
 public:
+    const std::string CONFIG = "config";
+    const std::string NAME = "name";
+    const std::string VERSION = "version";
+    const std::string MAX_RESPONSES = "max_responses";
+    const std::string REQUESTS = "requests";
+    const std::string FILES = "files";
+    const std::string REQUEST = "request";
+    const std::string RESULT = "result";
+    const std::string RELEVANCE = "relevance";
+    const std::string DOCID = "docid";
+    const std::string RANK = "rank";
+    const std::string ANSWERS = "answers";
+
     ConverterJSON(const std::string&  config_path = "config.json",
-                  const std::string& request_path = "request.json",
+                  const std::string& request_path = "requests.json",
                   const std::string& answers_path = "answers.json");
         /**
          * Метод внесения данных в файл config.json

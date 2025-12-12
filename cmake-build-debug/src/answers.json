@@ -1,1 +1,8 @@
-null
+{
+    "answers": [
+        {
+            "request": "request1",
+            "result": "false"
+        }
+    ]
+}
